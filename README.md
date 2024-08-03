@@ -1,3 +1,4 @@
+![logo](https://github.com/Walterlyy/Walterlyy/blob/main/Github_Banner.png)
 <h1 align="center">Hi 👋, I'm Walter</h1>
 <h3 align="center">A professional discord bot dev and a guild creator/manager</h3>
 
