@@ -20,7 +20,8 @@
 <h2 align="center">💻 About Me</h2>
 
 ```yaml
-name: netpwn
-title: Unethical Hacker & Cybersecurity Expert
-skills: ["Penetration Testing", "Python", "Bash Scripting", "Reverse Engineering", "Cyber Defense", "bromas sin sentido"]
-fun_fact: "Puedo follarte madre delante de ti"
+Name: netpwn
+Title: Unethical Hacker & Cybersecurity Expert
+Skills: ["Penetration Testing", "Python", "Bash Scripting", "Reverse Engineering", "Cyber Defense", "bromas sin sentido"]
+Address: USA/USSR
+Fun fact: "Puedo follarte madre delante de ti"
