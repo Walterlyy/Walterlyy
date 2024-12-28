@@ -1,4 +1,4 @@
-<h1 align="center"><span style="color: #00d4ff;">NETPWN 🛡️</span>! 👾</h1>
+<h1 align="center"><span style="color: #00d4ff;">NETPWN 🛡️</span></h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=ff0000&center=true&width=500&lines=Cybersecurity+Specialist;Ethical+Hacker;Developer+%26+Tech+Enthusiast;Founder+of+Proxy+Encryptors!" alt="Typing SVG">
 </p>
