@@ -26,7 +26,9 @@ Skills: ["Penetration Testing", "Python", "Bash Scripting", "Reverse Engineering
 Address: USA/USSR
 Fun fact: "Puedo follarte madre delante de ti"
 ```
+
 ---
+
 <h2 align="center">Tools & Tech Stack</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,linux,aws,js,html,css,git,kali" alt="Skills" />
@@ -39,7 +41,8 @@ Fun fact: "Puedo follarte madre delante de ti"
   <a href="mailto:netpwnn@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
-href="https://instagram.com/netpwnn">
+
+  <a href="https://instagram.com/netpwnn">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
