@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://github.com/netpwnn"><img src="https://img.shields.io/github/followers/NetPwn?label=Followers&style=social" alt="GitHub Followers"></a>
   <a href="https://discord.gg/hosthive"><img src="https://img.shields.io/badge/Join-Discord-blueviolet" alt="Discord"></a>
-  <a href="https://netpwnn.github.io"><img src="https://img.shields.io/badge/My%20Website-BLUE" alt="Website"></a>
+  <a href="https://www.cloudstack.live/"><img src="https://img.shields.io/badge/My%20Website-BLUE" alt="Website"></a>
 </p>
 
 ---
@@ -25,3 +25,20 @@ Title: Unethical Hacker & Cybersecurity Expert
 Skills: ["Penetration Testing", "Python", "Bash Scripting", "Reverse Engineering", "Cyber Defense", "bromas sin sentido"]
 Address: USA/USSR
 Fun fact: "Puedo follarte madre delante de ti"
+```
+---
+<h2 align="center">Tools & Tech Stack</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,aws,js,html,css,git,kali" alt="Skills" />
+</p>
+---
+<h2 align="center">Connect with Me</h2>
+<p align="center">
+  <a href="https://twitter.com/YOUR_TWITTER">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/netpwnn">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+---
