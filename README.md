@@ -31,14 +31,17 @@ Fun fact: "Puedo follarte madre delante de ti"
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,linux,aws,js,html,css,git,kali" alt="Skills" />
 </p>
+
 ---
+
 <h2 align="center">Connect with Me</h2>
 <p align="center">
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" />
+  <a href="mailto:netpwnn@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://instagram.com/netpwnn">
+href="https://instagram.com/netpwnn">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
 ---
